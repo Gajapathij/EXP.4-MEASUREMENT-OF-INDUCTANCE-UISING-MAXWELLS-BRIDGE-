@@ -45,7 +45,8 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 
     R2 = minimum we will neglect it
 
-    ## OUTPUT:
+## OUTPUT:
+
 ![WhatsApp Image 2025-09-23 at 15 59 55_928b1d11](https://github.com/user-attachments/assets/7b01685f-8080-43ac-9ac0-99011d14f9a4)
 
 
